@@ -1474,10 +1474,10 @@
   dependencies:
     http-proxy-middleware "^1.0.6"
 
-"@nuxtjs/tailwindcss@^5.0.1":
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/tailwindcss/-/tailwindcss-5.0.1.tgz#eeef2131e07cb26082cb55ced31c82c07d30e29b"
-  integrity sha512-PWIrt86fSk/fZAVqjaa2m0bSkXAWwMSl6WsoKo06d06jgj6k0Po435B2OTmDQ6lVy8vblvuACndZogW+FEn17A==
+"@nuxtjs/tailwindcss@^5.0.3":
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/tailwindcss/-/tailwindcss-5.0.3.tgz#96a8149d3a14f6144ce7d3a52d923bf0a36e5b31"
+  integrity sha512-nkr5/K/ILQs63414JqCyBApaAE5EKZ3dq9u8O98LryS91O5pqnvhvbD6aRPmIgf6zDhFfzlfCB040GUSAa03og==
   dependencies:
     "@nuxt/kit" "npm:@nuxt/kit-edge@latest"
     "@nuxt/postcss8" "^1.1.3"
